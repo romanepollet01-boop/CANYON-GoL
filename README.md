@@ -71,8 +71,6 @@ Each carbonate system variable can be predicted independently using its correspo
 
 The pretrained model weights and associated input and output scalers are provided in the corresponding directories.
 
-Detailed instructions regarding input variables, required data format, and model execution will be added.
-
 ## Data availability
 The observational dataset used to develop and train CANYON-GoL will be made publicly available through [SEANOE](https://www.seanoe.org/).
 
