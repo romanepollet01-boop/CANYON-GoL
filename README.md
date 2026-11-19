@@ -78,6 +78,13 @@ The observational dataset used to develop and train CANYON-GoL will be made publ
 
 The corresponding DOI will be added once the dataset is published.
 
+## License
+
+CANYON-GoL is distributed under the terms of the GNU General Public License version 3.0 (GPL-3.0).
+
+See the [LICENSE](LICENSE) file for the full license terms.
+
+
 ## Reference
 If you use CANYON-GoL in your research, please cite the associated scientific publication once available:
 
