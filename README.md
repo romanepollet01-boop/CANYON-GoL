@@ -48,6 +48,9 @@ CANYON-GoL/
 │
 ├── gebco_2025_n44.0_s41.0_w2.5_e7.0.nc
 ├── coastline_points_gol.csv
+├── .zenodo.json
+├── CITATION.cff
+├── LICENSE
 └── README.md
 ```
 
