@@ -1,0 +1,34 @@
+
+cff-version: 1.2.0
+message: "If you use CANYON-GoL in your research, please cite this software."
+title: "CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system"
+type: software
+authors:
+  - family-names: Pollet
+    given-names: Romane
+    affiliation: "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+  - family-names: Sauzède
+    given-names: Raphaëlle
+    affiliation: "Sorbonne Université, CNRS, Institut de la Mer de Villefranche (IMEV), Villefranche-sur-Mer, France"
+  - family-names: Delaigue
+    given-names: Louise
+    affiliation: "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+  - family-names: Labourdette
+    given-names: Enza
+    affiliation: "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+  - family-names: Coppola
+    given-names: Laurent
+    affiliation: "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France; Sorbonne Université, CNRS, Observatoire des Sciences de l'Univers (OSU) Station Marines (STAMAR), Paris, France"
+version: 1.0.0
+license: GPL-3.0
+repository-code: "https://github.com/romanepollet01-boop/CANYON-GoL"
+abstract: "CANYON-GoL is a regional deep-learning model developed to reconstruct vertical profiles of carbonate system variables in the Gulf of Lion, Northwestern Mediterranean Sea. The model predicts total alkalinity (AT), dissolved inorganic carbon (DIC), and pH on the total scale. This repository provides pretrained neural network models, associated input and output scalers, Python scripts for generating predictions, and auxiliary geographical and bathymetric data."
+keywords:
+  - CANYON-GoL
+  - Gulf of Lion
+  - Northwestern Mediterranean Sea
+  - Carbonate system
+  - Deep learning
+  - Total alkalinity
+  - Dissolved inorganic carbon
+  - pH
