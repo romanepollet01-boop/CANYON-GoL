@@ -1,0 +1,41 @@
+
+{
+  "title": "CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system",
+  "version": "1.0.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "GPL-3.0",
+  "description": "CANYON-GoL is a regional deep-learning model developed to reconstruct vertical profiles of carbonate system variables in the Gulf of Lion, Northwestern Mediterranean Sea. The model predicts total alkalinity (AT), dissolved inorganic carbon (DIC), and pH on the total scale. This repository provides pretrained neural network models, associated input and output scalers, Python scripts for generating predictions, and auxiliary geographical and bathymetric data.",
+  "creators": [
+    {
+      "name": "Pollet, Romane",
+      "affiliation": "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+    },
+    {
+      "name": "Sauzède, Raphaëlle",
+      "affiliation": "Sorbonne Université, CNRS, Institut de la Mer de Villefranche (IMEV), Villefranche-sur-Mer, France"
+    },
+    {
+      "name": "Delaigue, Louise",
+      "affiliation": "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+    },
+    {
+      "name": "Labourdette, E.",
+      "affiliation": "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
+    },
+    {
+      "name": "Coppola, Laurent",
+      "affiliation": "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France; Sorbonne Université, CNRS, Observatoire des Sciences de l'Univers (OSU) Station Marines (STAMAR), Paris, France"
+    }
+  ],
+  "keywords": [
+    "CANYON-GoL",
+    "Gulf of Lion",
+    "Northwestern Mediterranean Sea",
+    "Carbonate system",
+    "Deep learning",
+    "Total alkalinity",
+    "Dissolved inorganic carbon",
+    "pH"
+  ]
+}
