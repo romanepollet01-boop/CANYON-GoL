@@ -6,7 +6,7 @@
   "access_right": "open",
   "license": "GPL-3.0",
   "description": "CANYON-GoL is a regional deep-learning model developed to reconstruct vertical profiles of carbonate system variables in the Gulf of Lion, Northwestern Mediterranean Sea. The model predicts total alkalinity (AT), dissolved inorganic carbon (DIC), and pH on the total scale. This repository provides pretrained neural network models, associated input and output scalers, Python scripts for generating predictions, and auxiliary geographical and bathymetric data.",
-  "creators": [
+  "creators": [ 
     {
       "name": "Pollet, Romane",
       "affiliation": "Sorbonne Université, CNRS, Laboratoire d'Océanographie de Villefranche (LOV), Villefranche-sur-Mer, France"
