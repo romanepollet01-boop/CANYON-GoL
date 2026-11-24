@@ -80,12 +80,20 @@ The observational dataset used to develop and train CANYON-GoL will be made publ
 The corresponding DOI will be added once the dataset is published.
 
 ## Reference
-If you use CANYON-GoL in your research, please cite the associated scientific publication once available:
 
-Pollet, R., Sauzède, R., Delaigue, L., Labourdette, E., and Coppola, L. *CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system*. Manuscript submitted to *Journal of Geophysical Research: Oceans*.
+### Software citation
 
-The complete citation and DOI will be provided once available.
+If you use CANYON-GoL in your research, please cite the corresponding software release:
 
+Pollet, R., Sauzède, R., Delaigue, L., Labourdette, E., & Coppola, L. (2026). CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system (Version 1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24503301
+
+### Associated scientific publication
+
+A detailed description of the model development, training, and validation is provided in the associated scientific manuscript:
+
+Pollet, R., Sauzède, R., Delaigue, L., Labourdette, E., and Coppola, L. CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system. Manuscript submitted to Journal of Geophysical Research: Oceans.
+
+The complete citation and DOI of the scientific publication will be provided once available.
 ## License
 
 CANYON-GoL is distributed under the terms of the GNU General Public License version 3.0 (GPL-3.0).
