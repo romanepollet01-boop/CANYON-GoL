@@ -1,5 +1,6 @@
 
 cff-version: 1.2.0
+doi: 10.5281/zenodo.24503301
 message: "If you use CANYON-GoL in your research, please cite this software."
 title: "CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system"
 type: software
