@@ -1,5 +1,6 @@
 
 # CANYON-GoL
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24503301.svg)](https://doi.org/10.5281/zenodo.24503301)
 
 **CANYON-GoL: a deep-learning reconstruction of the Gulf of Lion carbonate system**
 
